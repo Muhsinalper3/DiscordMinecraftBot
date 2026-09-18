@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "prefix": "!",
+    "spam_limit": 5,
+    "spam_window": 5,
+    "mute_seconds": 120
+}
